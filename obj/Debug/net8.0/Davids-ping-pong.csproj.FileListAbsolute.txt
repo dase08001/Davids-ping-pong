@@ -32,3 +32,4 @@
 /home/teknikprogrammet/Dokument/GitHub/pingaponga/Davids-ping-pong/obj/Debug/net8.0/Davids-ping-pong.genruntimeconfig.cache
 /home/teknikprogrammet/Dokument/GitHub/pingaponga/Davids-ping-pong/obj/Debug/net8.0/ref/Davids-ping-pong.dll
 /home/teknikprogrammet/Dokument/GitHub/pingaponga/Davids-ping-pong/obj/Debug/net8.0/Davids-ping-pong.sourcelink.json
+/home/teknikprogrammet/Dokument/GitHub/pingaponga/Davids-ping-pong/bin/Debug/net8.0/Content/Font.xnb

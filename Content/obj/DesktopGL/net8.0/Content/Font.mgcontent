@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/teknikprogrammet/Dokument/GitHub/pingaponga/Davids-ping-pong/Content/Font.spritefont</SourceFile>
+  <SourceTime>2025-11-21T13:20:40.2643643+01:00</SourceTime>
+  <DestFile>/home/teknikprogrammet/Dokument/GitHub/pingaponga/Davids-ping-pong/Content/bin/DesktopGL/Content/Font.xnb</DestFile>
+  <DestTime>2025-11-21T13:20:50.1466956+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-06-02T12:31:02+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-06-02T12:31:02+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
